@@ -9,4 +9,4 @@
 #### 同源策略和跨域问题
 同源策略，它是由Netscape提出的一个著名的安全策略，所谓同源是指，域名，协议，端口相同<br/>
 一个域内的脚本仅仅具有本域内的权限，可以理解为本域脚本只能读写本域内的资源，而无法访问其它域的资源<br/>
-参考地址：http://www.jianshu.com/p/fccabaf38ac2?from=timeline&isappinstalled=1
+参考地址：http://www.jianshu.com/p/fccabaf38ac2
