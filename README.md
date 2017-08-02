@@ -14,5 +14,5 @@
 后端方式：跨来源资源共享CORS(Cross-Origin Resource Sharing);代理服务器(Proxy);  
 参考地址：http://www.jianshu.com/p/fccabaf38ac2
 
-#### webpack
+#### WEBPACK
 http://www.jianshu.com/p/dcb28b582318
