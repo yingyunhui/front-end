@@ -13,3 +13,6 @@
 前端方式：Jsonp(只支持GET);document.domain(一级域名相同);postMessage;Websocket;  
 后端方式：跨来源资源共享CORS(Cross-Origin Resource Sharing);代理服务器(Proxy);  
 参考地址：http://www.jianshu.com/p/fccabaf38ac2
+
+#### webpack
+http://www.jianshu.com/p/dcb28b582318
