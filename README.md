@@ -24,11 +24,8 @@ see my project react's webpack config
 server {
         listen       80;
         server_name  localhost;
-
         #charset koi8-r;
-
         #access_log  logs/host.access.log  main;
-
         location / {
 	    root   html;
             index  index.html index.htm;
