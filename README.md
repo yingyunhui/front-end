@@ -15,7 +15,7 @@
 参考地址：http://www.jianshu.com/p/fccabaf38ac2
 
 ### webpack
-see the my project react's webpack config  
+see my project react's webpack config  
 参考地址：http://www.jianshu.com/p/dcb28b582318
 
 ### nginx
