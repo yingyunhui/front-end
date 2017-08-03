@@ -22,11 +22,11 @@ see my project react's webpack config
 使用nginx处理静态文件资源，采用反向代理处理动态请求  
 `  
 location / {
-			root E:/react/build;
-            index  index.html index.htm;
-        }
-		location /api {
-            proxy_pass   http://localhost:8080;
-        }
+root html;
+  index  index.html index.htm;
+}
+location /api {
+  proxy_pass   http://localhost:8080;
+}
  `
 下载地址：http://nginx.org/en/download.html
