@@ -21,7 +21,6 @@ see my project react's webpack config
 ### nginx
 使用nginx处理静态文件资源，采用反向代理处理动态请求  
 ·
-...  
 server {
         listen       80;
         server_name  localhost;
@@ -31,10 +30,10 @@ server {
         #access_log  logs/host.access.log  main;
 
         location / {
-			      root   html;
+	    root   html;
             index  index.html index.htm;
         }
-		    location /api {
+	location /api {
             proxy_pass   http://localhost:8080;
         }
 ...
