@@ -19,7 +19,7 @@ see my project react's webpack config
 参考地址：http://www.jianshu.com/p/dcb28b582318
 
 ### nginx
-使用nginx处理静态文件资源，采用反向代理处理动态请求  
+使用nginx处理静态文件资源，设置反向代理处理动态请求(Apache等)  
 `  location / {
 root html;
   index  index.html index.htm;
