@@ -37,5 +37,5 @@ server {
 		location /api {
             proxy_pass   http://localhost:8080;
         }
-·
+ ·
 下载地址：http://nginx.org/en/download.html
