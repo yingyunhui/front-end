@@ -30,6 +30,6 @@ location /api {
 下载地址：http://nginx.org/en/download.html
 
 ### ES6
-(1)let const与var  
+(1) let const与var  
 var是es6之前的变量定义，作用于函数，而let作用于块，有严格的声明，不存在var的变量提升情况  
 const用于定义常量，更精确的是值索引，不能直接修改索引，可以改变其内的值
