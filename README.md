@@ -29,6 +29,10 @@ location /api {
 } `  
 下载地址：http://nginx.org/en/download.html
 
+### RESTful API
+REST一种架构风格，RESTful接口更加充分利用HTTP协议，URL只负责表达内容，用GET/POST/PUT/DELETE方法表达操作  
+参考地址：https://www.zhihu.com/question/20130130
+
 ### ES6
 (1) let const与var  
 var是es6之前的变量定义，作用于函数，而let作用于代码块，有严格的声明，不存在var的变量提升情况。const用于定义常量，更精确的是值索引，不能直接修改索引，可以改变其内的值  
