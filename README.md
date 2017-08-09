@@ -30,7 +30,7 @@ location /api {
 下载地址：http://nginx.org/en/download.html
 
 ### RESTful API
-REST一种架构风格，RESTful接口更加充分利用HTTP协议，URL只负责表达内容，用GET/POST/PUT/DELETE方法表达操作  
+REST一种架构风格，RESTful接口更加充分利用HTTP协议，URL只负责表达内容，用GET/POST/PUT/DELETE方法表达操作  
 参考地址：https://www.zhihu.com/question/20130130
 
 ### ES6
